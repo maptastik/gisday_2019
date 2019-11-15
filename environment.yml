@@ -1,0 +1,17 @@
+name: gisday_2019
+channels:
+  - udst
+  - conda-forge
+  - defaults
+dependencies:
+  - geopandas
+  - contextily
+  - geoplot
+  - folium
+  - jupyter
+  - requests
+  - python=3.7
+  - pip:
+    - cartoframes==1.0b4
+    - keplergl==0.1.2
+
