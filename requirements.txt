@@ -1,6 +1,0 @@
-geopandas
-contextily
-geoplot
-folium
-cartoframes==1.0b4
-keplergl
